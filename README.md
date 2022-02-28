@@ -53,7 +53,7 @@ ________________________________________________________________________________
 ### Share this PCB board files
 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FaeonSolutions%2FSolder-Reflow-Plate-PCB)
 
-[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fjitpack.io%2F&ref_src=twsrc%5Etfw&text=Version%201.0%20of%20Solder-Reflow-Plate-PCB%20is%20now%20available%20on%20&tw_p=tweetbutton&url=http%3A%2F%2Fjitpack.io%2F%23aeonSolutions%2FSolder-Reflow-Plate-PCB%2F1.0)
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fjitpack.io%2F&ref_src=twsrc%5Etfw&text=Version%201.0%20of%20Solder-Reflow-Plate-PCB%20is%20now%20available%20on%20&tw_p=tweetbutton&url=http%3A%2F%2Fgithub.com%2F%23aeonSolutions%2FSolder-Reflow-Plate-PCB%2F1.0)
 
 <a href="https://stackexchange.com/users/18907312/miguel-silva"><img src="https://stackexchange.com/users/flair/18907312.png" width="208" height="58" alt="profile for Miguel Silva on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Miguel Silva on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
