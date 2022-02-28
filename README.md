@@ -1,7 +1,8 @@
 # Solder Reflow Plate PCB
  Solder Reflow Plate PCB
 
-
+![](https://views.whatilearened.today/views/github/aeonSolutions/Solder_Reflow_Plate_PCB.svg)
+![](https://img.shields.io/github/downloads/aeonSolutions/Solder-Reflow-Plate-PCB/total?style=for-the-badge)
 
 ## Versions
 - revision 2.0 (ToDo)
@@ -15,7 +16,7 @@
   - Atmel Mega 328P MCU (includes cristal for programming)
  
 
-![](https://img.shields.io/github/downloads/aeonSolutions/Solder-Reflow-Plate-PCB/total?style=for-the-badge)
+
 
 
 
