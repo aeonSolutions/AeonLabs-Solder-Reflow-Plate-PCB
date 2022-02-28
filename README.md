@@ -7,7 +7,8 @@
 ## Versions
 - revision 2.0 (ToDo)
   - ESP32 MCU with BLE and WiFi
-  - 
+  - Android App to view and control the hot plate temperature
+  
 - revision 1.0
   - 120mm x 70mm (Bigger hot plate dimensions)
   - 12VDC (5A Minimum)
