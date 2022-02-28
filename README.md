@@ -1,5 +1,5 @@
 # Solder Reflow Plate PCB
- Solder Reflow Plate PCB
+ Solder Reflow Plate PCB from the original pcb schematic by [AfterEarthLTD](https://github.com/AfterEarthLTD/Solder-Reflow-Plate)
 
 ![](https://views.whatilearened.today/views/github/aeonSolutions/Solder_Reflow_Plate_PCB.svg)
 ![](https://img.shields.io/github/downloads/aeonSolutions/Solder-Reflow-Plate-PCB/total?style=for-the-badge)
@@ -14,12 +14,9 @@
   - 12VDC (5A Minimum)
   - 5.5mm x 2.5mm Barrel Jack
   - 0.91" OLED Display
-  - Atmel Mega 328P MCU (includes cristal for programming)
+  - Atmel Mega 328P MCU (this version includes cristal for programming)
+  - With corner M2.5 holes for placement of an aluminium plate on top of the PCB for extended lifetime and durability.
  
-
-
-
-
 
 ## As Seen On GreatScott! 
 This is the Gerber & KiCad files for the Youtuber GreatScott! video "The Best way to reflow solder? Hot Plate to the rescue! DIY or Buy"
