@@ -32,7 +32,7 @@ Download the Gerber files in the release section of this repository
 (I will also deliver the assembled PCB with all the components in place at an aditonal cost).
 
 
-![](https://github.com/aeonSolutions/Solder-Reflow-Plate-PCB/top_snapshot.png)
+![](https://github.com/aeonSolutions/Solder-Reflow-Plate-PCB/blob/main/Designs/top_snapshot.png)
 
 ________________________________________________________________________________________________________________
 
