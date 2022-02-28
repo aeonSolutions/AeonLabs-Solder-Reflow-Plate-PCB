@@ -21,11 +21,14 @@
 ## As Seen On GreatScott! 
 This is the Gerber & KiCad files for the Youtuber GreatScott! video "The Best way to reflow solder? Hot Plate to the rescue! DIY or Buy"
 Check it out here - [The Best way to reflow solder? Hot Plate to the rescue! DIY or Buy](https://www.youtube.com/watch?v=QarizoUnRfk)
-You can view the DIY build here : https://www.youtube.com/watch?v=LoQu3XXIayc&t=1as
+
 
 You have 2 options:
+
 Download this repository for the KiCad Files
+
 Or,
+
 Download the Gerber files in the release section of this repository
 
 ### alternatively if you do not want to build a PCB by yourself, and like to buy one mail me at mtpsilva@gmail.com. The price will be around 20eur plus postage fees.
