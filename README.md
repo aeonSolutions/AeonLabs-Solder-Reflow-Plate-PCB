@@ -1,5 +1,5 @@
 # Solder Reflow Plate PCB
- Solder Reflow Plate PCB from the original pcb schematic by [AfterEarthLTD](https://github.com/AfterEarthLTD/Solder-Reflow-Plate)
+ Improved Kicad PCB schematics for a DIY Solder Reflow Plate from the original pcb schematic by [AfterEarthLTD](https://github.com/AfterEarthLTD/Solder-Reflow-Plate)
 
 ![](https://views.whatilearened.today/views/github/aeonSolutions/Solder_Reflow_Plate_PCB.svg)
 ![](https://img.shields.io/github/downloads/aeonSolutions/Solder-Reflow-Plate-PCB/total?style=for-the-badge)
