@@ -15,7 +15,8 @@
   - Atmel Mega 328P MCU (includes cristal for programming)
  
 
-![](https://img.shields.io/github/downloads/aeonSolutions/DIYPERKS_microphone_project/total?style=for-the-badge)
+![](https://img.shields.io/github/downloads/aeonSolutions/Solder-Reflow-Plate-PCB/total?style=for-the-badge)
+
 
 
 ## As Seen On GreatScott! 
