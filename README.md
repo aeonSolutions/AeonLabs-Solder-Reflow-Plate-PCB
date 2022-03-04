@@ -5,7 +5,7 @@
 ![](https://img.shields.io/github/downloads/aeonSolutions/Solder-Reflow-Plate-PCB/total?style=for-the-badge)
 
 ## Versions
-- revision 2.0 (ToDo)
+- revision 2.0
   - ESP32 MCU with BLE and WiFi
   - Android App to view and control the hot plate temperature
   
@@ -14,7 +14,7 @@
   - 12VDC (5A Minimum)
   - 5.5mm x 2.5mm Barrel Jack
   - 0.91" OLED Display
-  - Atmel Mega 328P MCU (this version includes cristal for programming)
+  - Atmel Mega 328P MCU (this version includes crystal for programming)
   - With corner M2.5 holes for placement of an aluminium plate on top of the PCB for extended lifetime and durability.
  
 
