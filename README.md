@@ -37,6 +37,11 @@ Download the Gerber files in the release section of this repository
 
 ![](https://github.com/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB/blob/main/Designs/top_snapshot.png)
 
+## Join the WhatsApp Group
+If you like this kind of projects and want to stay updated with the lastest research ideias and prototypes during the day and week, join the WhatsApp Group
+[LDAD Lab & Prototyping](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg)
+
+
 ________________________________________________________________________________________________________________
 
 
