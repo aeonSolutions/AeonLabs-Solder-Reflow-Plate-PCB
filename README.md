@@ -31,7 +31,11 @@ Or,
 
 Download the Gerber files in the release section of this repository
 
-### alternatively if you do not want to build a PCB by yourself, and like to buy one mail me at mtpsilva@gmail.com. The price will be around 20eur plus postage fees.
+### alternatively if you do not want to build a PCB by yourself, you can buy here:
+
+[Tidie.com](https://www.tindie.com/products/aeonlabs/solder-reflow-plate-with-nextion-lcd-touch/)
+
+The price will be around 30eur plus postage fees.
 (I will also deliver the assembled PCB with all the components in place at an aditonal cost).
 
 
