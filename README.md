@@ -23,7 +23,7 @@
   - 12VDC (5A Minimum)
   - 5.5mm x 2.5mm Barrel Jack
   - 0.91" OLED Display
-  - Atmel Mega 328P MCU (this version includes crystal for programming)
+  - Atmel Mega 328P MCU (this version includes a crystal for programming)
   - With corner M2.5 holes for placement of an aluminium plate on top of the PCB for extended lifetime and durability.
  
 
