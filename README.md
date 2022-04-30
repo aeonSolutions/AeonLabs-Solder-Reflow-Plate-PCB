@@ -5,10 +5,18 @@
 ![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB/total?style=for-the-badge)
 
 ## Versions
-- revision 2.0
-  - ESP32 MCU with BLE and WiFi
+### AeonLabs improved Hot Solder Reflow Plate
+- revision 2.x (ToDo)
   - Android App to view and control the hot plate temperature
-  
+
+- revison 1.x
+  - ESP32 MCU with BLE and WiFi
+  - 2x Temperature seensors for improved management of Reflow temperature
+  - 12VDC (5A Minimum)
+  - 5.5mm x 2.5mm Barrel Jack
+  - With corner M2.5 holes for placement of an aluminium plate on top of the PCB for extended lifetime and durability.
+   
+### Regular Hot Solder Reflow Plate as seen on GreatScott
 - revision 1.0
   - 120mm x 70mm (Bigger hot plate dimensions)
   - 12VDC (5A Minimum)
@@ -39,8 +47,8 @@ The price will be around 30eur plus postage fees.
 (I will also deliver the assembled PCB with all the components in place at an aditonal cost).
 
 ![](https://github.com/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB/blob/main/Designs/concept.jfif)
-![](https://github.com/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB/blob/main/Designs/top_snapshot.png)
-
+![](https://github.com/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB/blob/main/Designs/pcb_front.png)
+![](https://github.com/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB/blob/main/Designs/pcb_back.png)
 ## Join the WhatsApp Group
 If you like this kind of projects and want to stay updated with the latest research ideas and prototypes during the day and week, join the WhatsApp Group
 [LDAD Lab & Prototyping](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg)
