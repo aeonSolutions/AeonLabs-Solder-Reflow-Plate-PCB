@@ -19,15 +19,10 @@
   - Aluminium plate can now be exported as Gerber to [FlatCAM](http://flatcam.org) and drilled using [Candle](https://github.com/Denvi/Candle) 
   
  *FlatCAM settings*
- 
- Feed Rate: 0.3-0.5
- 
- Depth pass: 1.1 mm (unless your setup your CNC with Z-height correction; for a 8mm thick aluminium plate)
- 
- Tool: 2mm or 0.07874 inch
- 
- pass overlap: 0.0
- 
+  - Feed Rate: 0.3-0.5
+  - Depth pass: 1.1 mm (unless your setup your CNC with Z-height correction; for a 8mm thick aluminium plate)
+  - Tool: 2mm or 0.07874 inch
+  - pass overlap: 0.0
  
 ### Regular Hot Solder Reflow Plate as seen on GreatScott
 - revision 1.0
