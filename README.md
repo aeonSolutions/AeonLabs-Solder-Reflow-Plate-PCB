@@ -27,7 +27,7 @@ One can CNC the aluminium base plate on any GBRL CNC machine like this one on Al
  
   - Feed Rate: 0.3-0.5 units/min
   - Depth pass: 1.1 mm or 0.04331 inch (unless your setup your CNC with Z-height correction; for a 8mm thick aluminium plate)
-  - Tool: 2mm or 0.07874 inch
+  - Tool [CNC Single Flute Milling cutters for Aluminum](https://www.aliexpress.com/item/1005004188243213.html?spm=a2g0o.cart.0.0.3cb23c00L4Ibog&mp=1): 2mm or 0.07874 inch
   - pass overlap: 0.0
   
  ________________________________________________________________________________________________________________
@@ -75,18 +75,19 @@ ________________________________________________________________________________
 
 
 #### PCB Parts list:
-- 1x AMS1117-3.3
-- 1x AMS1117-5.0
-- 1x FUSE SMD 1206 5A
-- 1x MM1Z24
-- Barrel Jack
-- 1x FTC 1x4 pin 1mm pitch horizontal
-- 1x DSR1M
-- 1x SMAJ18A
-- 2x LMT85LP
-- 1x UMW30N06
-- 1x ESP32 WROOM32
-- 1x NEXTION 3.2" LCD Touch
+- 1x AMS1117-3.3, sold on AliExpress [here](https://s.click.aliexpress.com/e/_AOIVLN)
+- 1x AMS1117-5.0, sold on AliExpress [here](https://s.click.aliexpress.com/e/_AOIVLN)
+- 1x FUSE SMD 1206 5A, sold on AliExpress [here](https://s.click.aliexpress.com/e/_A8yVgJ)
+- 1x MM1Z24, sold on AliExpress [here](https://www.aliexpress.com/item/1005003538876461.html?spm=a2g0o.order_list.0.0.2bb91802tqEyK1)
+- Barrel Jack, sold on AliExpress [here](https://s.click.aliexpress.com/e/_As3F2L)
+- 1x FPC 1x4 pin 1mm pitch horizontal, sold on AliExpress [here](https://s.click.aliexpress.com/e/_ASMTDp)
+- 1x FPC flat cable 1mm pitch 4 pin, sold on AliExpress [here](https://s.click.aliexpress.com/e/_9js0C7)
+- 1x DSR1M, sold on AliExpress [here](https://s.click.aliexpress.com/e/_9JQobh)
+- 1x SMAJ18A, sold on AliExpress [here](https://s.click.aliexpress.com/e/_9zW0DN)
+- 2x LMT85LP, sold on AliExpress [here](https://www.aliexpress.com/item/1005003755656556.html?spm=a2g0o.order_list.0.0.42ba1802MVKTRu)
+- 1x UMW30N06, sold on AliExpress [here](https://www.aliexpress.com/item/4000687585069.html?spm=a2g0o.order_list.0.0.2bb91802tqEyK1)
+- 1x ESP32 WROOM32, sold on AliExpress [here](https://www.aliexpress.com/item/32912371635.html?spm=a2g0o.productlist.0.0.1c737b00qtI6F1&algo_pvid=2b9d3923-cad6-4894-abba-bcbe1659aab6&algo_exp_id=2b9d3923-cad6-4894-abba-bcbe1659aab6-0&pdp_ext_f=%7B"sku_id"%3A"65986896288"%7D&pdp_npi=2%40dis%21EUR%21%212.27%21%21%21%21%21%400bb0622916528901078995704e092a%2165986896288%21sea)
+- 1x NEXTION 3.2" LCD Touch, sold on AliExpress [here](https://www.aliexpress.com/item/32678581956.html?spm=a2g0o.productlist.0.0.16f46e8cmt3XbA&algo_pvid=657314cc-0888-4621-8795-71fcd735d410&algo_exp_id=657314cc-0888-4621-8795-71fcd735d410-2&pdp_ext_f=%7B%22sku_id%22%3A%2210000003437337029%22%7D&pdp_npi=2%40dis%21EUR%21%2126.15%21%21%21%21%21%40210318b916528902149054769e34ce%2110000003437337029%21sea)
 
 ______________________________________________________________________________________________________________________________
 
