@@ -23,7 +23,7 @@
   
  *FlatCAM settings*
  
-One can CNC the aluminium base plate on any GBRL CNC machine like this one on AliExpress [here](https://s.click.aliexpress.com/e/_AOOXQ7). Don't forget to use a think lubricating oil for improved results. 
+One can CNC the aluminium base plate on any GBRL CNC machine like this one on AliExpress [here](https://s.click.aliexpress.com/e/_AOOXQ7). Don't forget to use a thick lubricating oil for improved results. 
  
   - Feed Rate: 0.3-0.5 units/min
   - Depth pass: 1.1 mm or 0.04331 inch (unless your setup your CNC with Z-height correction; for a 8mm thick aluminium plate)
