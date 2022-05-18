@@ -21,7 +21,7 @@
   - Electronic components placed on the bottom side for extended lifetime and improved duraility
   - Aluminium plate can now be exported as Gerber to [FlatCAM](http://flatcam.org) and drilled using [Candle](https://github.com/Denvi/Candle) 
   
- *FlatCAM settings*
+### *FlatCAM settings*
  
 One can CNC the aluminium base plate on any GBRL CNC machine like this one on AliExpress [here](https://s.click.aliexpress.com/e/_AOOXQ7). Don't forget to use a thick lubricating oil for improved results. 
  
