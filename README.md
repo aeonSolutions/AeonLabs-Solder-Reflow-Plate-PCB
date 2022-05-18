@@ -1,5 +1,5 @@
 # Solder Reflow Plate PCB
- Improved Kicad PCB schematics for a DIY Solder Reflow Plate from the original pcb schematic by [AfterEarthLTD](https://github.com/AfterEarthLTD/Solder-Reflow-Plate)
+ Improved Kicad PCB schematics for a DIY Solder Reflow Plate from the original pcb schematic by [AfterEarthLTD](https://github.com/AfterEarthLTD/Solder-Reflow-Plate). AeonLabs Solder Reflow Plate features a Nextion 3.2" LCD Touch and a ESP32 WROoM32 for WiFi and Bluetooth connectivity. 
 
 ![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs_Solder_Reflow_Plate_PCB.svg)
 ![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB/total?style=for-the-badge)
