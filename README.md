@@ -9,7 +9,7 @@
 ## Versions
 ### AeonLabs improved Hot Solder Reflow Plate
 - revision 2.x (ToDo)
-  - Firmware code for the ESP32 WROOM32 for this Solder Reflow Plate
+  - Firmware code for the ESP32 WROOM32 and for the Nextion 3.2" LCD Touch on this Solder Reflow Plate
   - Android App to view and control the hot plate temperature
 
 - revison 1.x
