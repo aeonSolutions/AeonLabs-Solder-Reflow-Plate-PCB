@@ -16,14 +16,19 @@
   - 5.5mm x 2.5mm Barrel Jack
   - With corner M7.5 holes for placement of an aluminium plate on top of the PCB for extended lifetime and durability
   - Electronic components placed on the bottom side for extended lifetime and improved duraility
-  - Aluminium plate can now be exported to [FlatCAM](http://flatcam.org) and drilled using [Candle](https://github.com/Denvi/Candle) 
+  - Aluminium plate can now be exported as Gerber to [FlatCAM](http://flatcam.org) and drilled using [Candle](https://github.com/Denvi/Candle) 
   
  *FlatCAM settings*
+ 
  Feed Rate: 0.3-0.5
+ 
  Depth pass: 1.1 mm (unless your setup your CNC with Z-height correction; for a 8mm thick aluminium plate)
+ 
  Tool: 2mm or 0.07874 inch
+ 
  pass overlap: 0.0
-   
+ 
+ 
 ### Regular Hot Solder Reflow Plate as seen on GreatScott
 - revision 1.0
   - 120mm x 70mm (Bigger hot plate dimensions)
