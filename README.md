@@ -14,7 +14,7 @@
   - 2x Temperature seensors for improved management of Reflow temperature
   - 12VDC (5A Minimum)
   - 5.5mm x 2.5mm Barrel Jack
-  - With corner M2.5 holes for placement of an aluminium plate on top of the PCB for extended lifetime and durability
+  - With corner M7.5 holes for placement of an aluminium plate on top of the PCB for extended lifetime and durability
   - Electronic components placed on the bottom side for extended lifetime and improved duraility 
    
 ### Regular Hot Solder Reflow Plate as seen on GreatScott
@@ -23,7 +23,7 @@
   - 12VDC (5A Minimum)
   - 5.5mm x 2.5mm Barrel Jack
   - 0.91" OLED Display
-  - Atmel Mega 328P MCU (this version includes crystal for programming)
+  - Atmel Mega 328P MCU (this version includes a crystal for programming)
   - With corner M2.5 holes for placement of an aluminium plate on top of the PCB for extended lifetime and durability.
  
 
