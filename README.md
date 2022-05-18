@@ -29,7 +29,9 @@ One can CNC the aluminium base plate on any GBRL CNC machine like this one on Al
   - Depth pass: 1.1 mm or 0.04331 inch (unless your setup your CNC with Z-height correction; for a 8mm thick aluminium plate)
   - Tool: 2mm or 0.07874 inch
   - pass overlap: 0.0
- 
+  
+ ________________________________________________________________________________________________________________
+
 ### Regular Hot Solder Reflow Plate as seen on GreatScott
 - revision 1.0
   - 120mm x 70mm (Bigger hot plate dimensions)
@@ -73,7 +75,18 @@ ________________________________________________________________________________
 
 
 #### PCB Parts list:
-
+- 1x AMS1117-3.3
+- 1x AMS1117-5.0
+- 1x FUSE SMD 1206 5A
+- 1x MM1Z24
+- Barrel Jack
+- 1x FTC 1x4 pin 1mm pitch horizontal
+- 1x DSR1M
+- 1x SMAJ18A
+- 2x LMT85LP
+- 1x UMW30N06
+- 1x ESP32 WROOM32
+- 1x NEXTION 3.2" LCD Touch
 
 ______________________________________________________________________________________________________________________________
 
