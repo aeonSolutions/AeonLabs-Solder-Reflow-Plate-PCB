@@ -12,6 +12,11 @@
   - Firmware code for the ESP32 WROOM32 and for the Nextion 3.2" LCD Touch on this Solder Reflow Plate
   - Android App to view and control the hot plate temperature
 
+- revision 1.3
+  - Power supply track correction (buggy in previous revisions)
+  - Resize some SMD compoments (better PCB placement and clearance)
+  - Sillscreen Improvements 
+ 
 - revison 1.x
   - ESP32 MCU with BLE and WiFi
   - 2x Temperature seensors for improved management of Reflow temperature
@@ -62,7 +67,7 @@ Download the Gerber files in the release section of this repository
 The price will be around 30eur plus postage fees.
 (I will also deliver the assembled PCB with all the components in place at an aditonal cost).
 
-![](https://github.com/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB/blob/main/Designs/concept.jfif)
+![](https://github.com/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB/blob/main/Designs/concept.jpg)
 ![](https://github.com/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB/blob/main/Designs/pcb_front.png)
 ![](https://github.com/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB/blob/main/Designs/pcb_back.png)
 ## Join the WhatsApp Group
