@@ -14,6 +14,7 @@
 
 - revision 1.3
   - Power supply track correction (buggy in previous revisions)
+  - Upgraded to ZLDO1117 voltage regulators
   - Resize some SMD compoments (better PCB placement and clearance)
   - Sillscreen Improvements 
  
