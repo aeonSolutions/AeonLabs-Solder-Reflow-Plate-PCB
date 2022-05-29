@@ -71,6 +71,10 @@ The price will be around 30eur plus postage fees.
 ![](https://github.com/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB/blob/main/Designs/concept.jpg)
 ![](https://github.com/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB/blob/main/Designs/pcb_front.png)
 ![](https://github.com/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB/blob/main/Designs/pcb_back.png)
+
+## Liked it ? Get a Free PCB for yourself
+Send my your Device or hardware and i will design a custom PCB for it. Free of charge. Contact-me on WhatsApp or email for more info. 
+
 ## Join the WhatsApp Group
 If you like this kind of projects and want to stay updated with the latest research ideas and prototypes during the day and week, join the WhatsApp Group
 [LDAD Lab & Prototyping](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg)
