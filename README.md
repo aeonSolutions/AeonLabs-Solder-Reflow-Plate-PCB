@@ -55,15 +55,11 @@ Check it out here - [The Best way to reflow solder? Hot Plate to the rescue! DIY
 
 You have 2 options:
 
-Download this repository for the KiCad Files
-
-Or,
-
-Download the Gerber files in the release section of this repository
+Download this repository for the KiCad Files or, download the Gerber files in the release section of this repository
 
 ### alternatively if you do not want to build a PCB by yourself, you can buy here:
 
-[Tidie.com](https://www.tindie.com/products/aeonlabs/solder-reflow-plate-with-nextion-lcd-touch/)
+[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/tindie_sell.png)](https://www.tindie.com/stores/aeonlabs/)
 
 The price will be around 30eur plus postage fees.
 (I will also deliver the assembled PCB with all the components in place at an aditonal cost).
