@@ -12,13 +12,12 @@
   - Firmware code for the ESP32 WROOM32 and for the Nextion 3.2" LCD Touch on this Solder Reflow Plate
   - Android App to view and control the hot plate temperature
 
-- revision 1.3
-  - Power supply track correction (buggy in previous revisions)
-  - Upgraded to ZLDO1117 voltage regulators with copper heat dissipation area
-  - Resize some SMD compoments (better PCB placement and clearance)
-  - Sillscreen Improvements 
+- revision 1.4
+  - Power supply dissipation pad correction (buggy in previous revision 1.3)
+  - Added an ON/ OFF switch 
  
 - revison 1.x
+  - Upgraded to ZLDO1117 voltage regulators with copper heat dissipation area
   - ESP32 MCU with BLE and WiFi
   - 2x Temperature seensors for improved management of Reflow temperature
   - 12VDC (5A Minimum)
