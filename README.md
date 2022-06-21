@@ -14,7 +14,7 @@
 
 - revision 1.3
   - Power supply track correction (buggy in previous revisions)
-  - Upgraded to ZLDO1117 voltage regulators
+  - Upgraded to ZLDO1117 voltage regulators with copper heat dissipation area
   - Resize some SMD compoments (better PCB placement and clearance)
   - Sillscreen Improvements 
  
@@ -55,15 +55,11 @@ Check it out here - [The Best way to reflow solder? Hot Plate to the rescue! DIY
 
 You have 2 options:
 
-Download this repository for the KiCad Files
-
-Or,
-
-Download the Gerber files in the release section of this repository
+Download this repository for the KiCad Files or, download the Gerber files in the release section of this repository
 
 ### alternatively if you do not want to build a PCB by yourself, you can buy here:
 
-[Tidie.com](https://www.tindie.com/products/aeonlabs/solder-reflow-plate-with-nextion-lcd-touch/)
+[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/tindie_sell.png)](https://www.tindie.com/stores/aeonlabs/)
 
 The price will be around 30eur plus postage fees.
 (I will also deliver the assembled PCB with all the components in place at an aditonal cost).
@@ -73,7 +69,7 @@ The price will be around 30eur plus postage fees.
 ![](https://github.com/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB/blob/main/Designs/pcb_back.png)
 
 ## Liked it ? Get a Free PCB for yourself
-Send my your Device or hardware and i will design a custom PCB for it. Free of charge. Contact-me on WhatsApp or email for more info. 
+Send me your device or hardware and i will design a custom PCB for it. Free of charge. Contact-me on WhatsApp or email for more info. 
 
 ## Q&A WhatsApp Group
 If you have any Questions or simply  like this kind of projects and want to stay updated with the latest research ideas and prototypes during the day and week, join the WhatsApp Group
