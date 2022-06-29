@@ -25,7 +25,9 @@
   - With corner M7.5 holes for placement of an aluminium plate on top of the PCB for extended lifetime and durability
   - Electronic components placed on the bottom side for extended lifetime and improved duraility
   - Aluminium plate can now be exported as Gerber to [FlatCAM](http://flatcam.org) and drilled using [Candle](https://github.com/Denvi/Candle) 
-  
+
+[![](https://github.com/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB/blob/main/Designs/youtube.png)](https://www.youtube.com/watch?v=1Q-IPH6u9Qg)
+
 ### *FlatCAM settings*
  
 One can CNC the aluminium base plate on any GBRL CNC machine like this one on AliExpress [here](https://s.click.aliexpress.com/e/_AOOXQ7). Don't forget to use a thin lubricating oil for improved results. 
@@ -75,6 +77,8 @@ If you have any Questions or simply  like this kind of projects and want to stay
 [LDAD Lab & Prototyping](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg)
 
 
+________________________________________________________________________________________________________________
+## [Go back to main catalogue page](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)
 ________________________________________________________________________________________________________________
 
 
