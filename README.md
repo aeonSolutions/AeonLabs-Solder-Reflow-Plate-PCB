@@ -7,7 +7,7 @@
 ![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB/total?style=for-the-badge)
 
 ### Status
-![](https://github.com/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL/blob/main/designs/working_yellow.png) Powers up, not tested
+![](https://github.com/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB/blob/main/designs/working_yellow.png) Powers up, not tested
 
 ## Versions
 ### AeonLabs improved Hot Solder Reflow Plate
