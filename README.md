@@ -7,7 +7,7 @@
 ![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB/total?style=for-the-badge)
 
 ### Status
-![](https://github.com/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB/blob/main/designs/working_yellow.png) Powers up, not tested
+![](https://github.com/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB/blob/main/Designs/working_yellow.png) Powers up. Not tested yet. If you have already tested this PCB send me a message.
 
 ## Versions
 ### AeonLabs improved Hot Solder Reflow Plate
