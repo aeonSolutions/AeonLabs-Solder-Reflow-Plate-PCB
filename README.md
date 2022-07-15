@@ -7,7 +7,7 @@
 ![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB/total?style=for-the-badge)
 
 ### Status
-![](https://github.com/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB/blob/main/Designs/working_green.png) Powers up. ESP32 Firmware Download 
+![](https://github.com/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB/blob/main/Designs/working_green.png) Powers up. ESP32 Firmware Download Need both ICSP Header and External Power to do firmware download correctly. Also revision 1.3 needs to cross TX/RX pads or else fails with "no serial data ..."
 
 ![](https://github.com/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB/blob/main/Designs/working_yellow.png) Waiting to be further tested.
 
