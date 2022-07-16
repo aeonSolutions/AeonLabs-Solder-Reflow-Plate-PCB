@@ -7,7 +7,7 @@
 ![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB/total?style=for-the-badge)
 
 ### Status
-![](https://github.com/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB/blob/main/Designs/working_green.png) Powers up. ESP32 Firmware Download Need both ICSP Header and External Power to do firmware download correctly. Also revision 1.3 needs to cross TX/RX pads or else fails with "no serial data ..."
+![](https://github.com/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB/blob/main/Designs/working_green.png)  Revision 1.3 needs to cross TX/RX pads or else fails with "no serial data ..."
 
 ![](https://github.com/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB/blob/main/Designs/working_yellow.png) Waiting to be further tested.
 
@@ -19,9 +19,10 @@ If you have already tested this PCB send me a message.
   - Firmware code for the ESP32 WROOM32 and for the Nextion 3.2" LCD Touch on this Solder Reflow Plate
   - Android App to view and control the hot plate temperature
 
-- revision 1.4
-  - Power supply dissipation pad correction (buggy in previous revision 1.3)
+- revision 1.4 (upcomming)
+  - Serial TX/RX track lines correction.
   - Added an ON/ OFF switch 
+  - Redesigned and new 5.0V and 3.3V power managment for more than 90% effciency . No more hot LDOs on the PCB! 
  
 - revison 1.x
   - Upgraded to ZLDO1117 voltage regulators with copper heat dissipation area
