@@ -9,7 +9,7 @@
 ### Status
 ![](https://github.com/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB/blob/main/Designs/working_green.png)  Revision 1.3 needs to cross TX/RX pads or else fails with "no serial data ..."
 
-![](https://github.com/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB/blob/main/Designs/working_yellow.png) Waiting to be further tested.
+![](https://github.com/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB/blob/main/Designs/working_yellow.png) revision 2.0 waiting to be tested.
 
 If you have already tested this PCB send me a message.
 
