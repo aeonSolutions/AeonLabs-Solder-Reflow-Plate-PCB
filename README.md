@@ -19,7 +19,7 @@ If you have already tested this PCB send me a message.
   - Firmware code for the ESP32 WROOM32 and for the Nextion 3.2" LCD Touch on this Solder Reflow Plate
   - Android App to view and control the hot plate temperature
 
-- revision 2.0 (upcoming)
+- revision 2.0
   - Serial TX/RX track lines correction.
   - Added an ON/ OFF switch 
   - Redesigned and new 5.0V and 3.3V power managment for more than 90% efficiency . No more hot LDOs on the PCB! 
