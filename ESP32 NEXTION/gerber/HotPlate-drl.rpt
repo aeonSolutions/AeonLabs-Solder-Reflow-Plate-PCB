@@ -1,0 +1,31 @@
+Drill report for HotPlate.kicad_pcb
+Created on 6/8/2022 4:09:52 PM
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'HotPlate-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.305mm  0.0120"  (2 holes)
+    T2  0.400mm  0.0157"  (44 holes)
+    T3  0.800mm  0.0315"  (3 holes)
+    T4  0.813mm  0.0320"  (6 holes)
+    T5  1.000mm  0.0394"  (3 holes)  (with 3 slots)
+    T6  1.500mm  0.0591"  (6 holes)
+    T7  2.500mm  0.0984"  (1 hole)
+
+    Total plated holes count 65
+
+
+Drill file 'HotPlate-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  0.700mm  0.0276"  (5 holes)
+    T2  3.200mm  0.1260"  (4 holes)
+    T3  8.400mm  0.3307"  (3 holes)
+
+    Total unplated holes count 12
